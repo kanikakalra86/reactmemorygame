@@ -1,4 +1,4 @@
-# reactmemorygame
+# MemoryGame
 A card Memory game build on React
 The card memory game is a simple game to test the player’s memory. 
 In a deck of paired cards, the player needs to select a matching pair in consecutive turns. 
